@@ -4,6 +4,8 @@
 
 I'm a physicist and AI researcher from Melbourne, Australia 🇦🇺
 
+Check out my pinned repositories below for some of the work I've done 🚀
+
 ## Things I work with
 
 **Languages:** 
