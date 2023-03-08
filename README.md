@@ -25,7 +25,7 @@ Check out my pinned repositories below for some of the work I've done 🚀
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 <picture>
 <source 
