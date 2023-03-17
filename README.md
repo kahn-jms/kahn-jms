@@ -29,12 +29,24 @@ Check out my pinned repositories below for some of the work I've done 🚀
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=kahn-jms&show_icons=true&theme=gruvbox"
+  srcset="https://github-readme-stats.vercel.app/api?username=kahn-jms&show_icons=true&theme=gruvbox&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=kahn-jms&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=kahn-jms&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=kahn-jms&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=kahn-jms&show_icons=true&count_private=true" />
+</picture>
+&nbsp
+<picture>
+  <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kahn-jms&layout=compact&theme=gruvbox&hide=jupyter%20notebook"
+  media="(prefers-color-scheme: dark)"
+/>
+  <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kahn-jms&layout=compact&hide=jupyter%20notebook"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahn-jms&layout=compact&hide=jupyter%20notebook" />
 </picture>
